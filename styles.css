@@ -12,5 +12,14 @@ nav {
     background-color: yellow;
     font-size: 30px;
     text-align: center;
-    
+    position: relative;
+}
+#main {
+    width: 750px;
+    height: 450px;
+    background-color: aquamarine;
+    margin-left: 200px;
+}
+#image {
+
 }
