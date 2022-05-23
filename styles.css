@@ -26,3 +26,15 @@ h2 {
     margin-left: 275px;
     margin-top: 10px;
 }
+/* hover link */
+a:hover {
+    background-color: lightblue;
+}
+/* selected link */
+a:active {
+    background-color: lightcyan;
+}
+/* unvisited link */
+a:link {
+    color: purple;
+}
