@@ -20,10 +20,10 @@ h2 {
     position: relative;
 }
 #main {
-    width: 650px;
+    width: 850px;
     height: 750px;
     background-color: lightgray;
-    margin-left: 290px;
+    margin-left: 220px;
     margin-top: 10px;
 }
 /* hover link */
