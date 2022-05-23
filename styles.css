@@ -1,25 +1,27 @@
+#wrapper {
+    width: 1280px;
+    height: 960px;
+}
 body {
-    background-color: aqua;
+    background-image:url(pic.jpg);
 }
 h2 {
     text-align: center;
     font-size: 70px;
     color: darkblue;
+    margin-top: 20px;
 }
-nav {
-    height: 10%;
+#nav {
+    height: 40px;
     width: 100%;
-    background-color: yellow;
     font-size: 30px;
     text-align: center;
+    margin-top: 10px;
     position: relative;
 }
 #main {
-    width: 750px;
+    width: 650px;
     height: 450px;
-    background-color: aquamarine;
-    margin-left: 200px;
-}
-#image {
-
+    background-color: lightgray;
+    margin-left: 275px;
 }
