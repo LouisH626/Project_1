@@ -17,14 +17,16 @@ h2 {
     font-size: 30px;
     text-align: center;
     margin-top: 10px;
-    position: relative;
+    
 }
 #main {
     width: 850px;
-    height: 750px;
-    background-color: lightgray;
+    height: 650px;
     margin-left: 220px;
     margin-top: 10px;
+    background-color: lightseagreen;
+    text-align: center;
+    background-image: url(pic2.png);
 }
 /* hover link */
 a:hover {
