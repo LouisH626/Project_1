@@ -6,3 +6,11 @@ h2 {
     font-size: 70px;
     color: darkblue;
 }
+nav {
+    height: 10%;
+    width: 100%;
+    background-color: yellow;
+    font-size: 30px;
+    text-align: center;
+    
+}
